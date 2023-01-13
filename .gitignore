@@ -1,0 +1,12 @@
+# A gitignore 
+
+
+# ignore folders
+.gitee/
+antora/
+
+
+# ignore files
+*.log
+
+
