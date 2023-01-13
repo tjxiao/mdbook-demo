@@ -1,9 +1,9 @@
 [book]
 authors = ["xiaotiejun"]
-language = "zh-CN"
+language = "en"
 multilingual = false
 src = "src"
-title = "毕业设计题目简介"
+title = "demonstration"
 
 [build]
 build-dir = "../site"
